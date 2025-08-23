@@ -1,0 +1,1 @@
+This dataset is made available under the Public Domain Dedication and License v1.0 whose full text can be found at: PDDL-1.0.txt

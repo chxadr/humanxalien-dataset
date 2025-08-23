@@ -1,4 +1,0 @@
-train: /home/vscode/projects/SelvaSystems/labeling/datasets/images/train
-val: /home/vscode/projects/SelvaSystems/labeling/datasets/images/val
-nc: 2
-names: ['alien', 'john']

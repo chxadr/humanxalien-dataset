@@ -1,0 +1,16 @@
+mnetv2_burst_labeling.py; mnetv2_manual_labeling.py; mnetv2_sanity_check.py; mnetv2_to_yolov8n_labels.py; are provided under:
+
+    SPDX-License-Identifier: MIT-0
+
+Being under the terms of the MIT No Attribution License according with:
+
+    LICENSES/MIT-0.txt
+
+data_mnetv2/ and its contents; data_yolov8n/ and its contents; assets/images/custom/ and its contents; are provided under:
+
+    SPDX-License-Identifier: PDDL-1.0
+
+Being under the terms of the Open Data Commons Public Domain Dedication and License (PDDL) v1.0
+or any later version according with:
+
+    LICENSES/PDDL-1.0.txt
