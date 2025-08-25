@@ -2,7 +2,7 @@
 
 # 👽 Alien vs Human Dataset 👓
 
-<img src="assets/images/third_party/john.jpg" width="400">
+<img src="assets/images/john_badass.jpg" width="400">
 
 </div>
 
@@ -17,7 +17,7 @@ This repository contains a dataset designed for **demonstration purposes**, taki
 
 [^2]: Glenn Jocher, Ayush Chaurasia, Jing Qiu (2023). *YOLO by Ultralytics* (Version 8.0.0) [Computer software]. https://github.com/ultralytics/ultralytics
 
-The **same dataset is provided, rearranged to fit each model’s requirements**, allowing you to experiment with both **workflows side-by-side**.
+Almost the same dataset is provided, arranged to fit each model’s requirements, allowing you to experiment with both workflows side-by-side.
 
 ### Dataset Constitution
 
